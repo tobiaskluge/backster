@@ -5,6 +5,7 @@ metadata:
   description: a simple Backstage managed service
   annotations:
     backstage.io/techdocs-ref: dir:.
+    backstage.io/kubernetes-id: backster
 spec:
   type: service
   lifecycle: production
