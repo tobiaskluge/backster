@@ -1,0 +1,5 @@
+site_name: 'backster-docs'
+nav:
+  - Home: index.md
+plugins:
+  - techdocs-core
